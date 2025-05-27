@@ -1,5 +1,4 @@
 # AMZN-Stock_Backtesting-Showcase
-# AMZN Stock Data Analysis and Simple Backtesting Showcase
 
 This repository contains a Jupyter Notebook (`amzn.ipynb`) demonstrating fundamental data analysis techniques on historical Amazon (AMZN) stock data, along with an initial exploration into basic backtesting concepts. This project serves as a foundation for more complex quantitative analysis and algorithmic trading strategy development.
 
