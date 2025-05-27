@@ -2,18 +2,6 @@
 
 This repository contains a Jupyter Notebook (`amzn.ipynb`) demonstrating fundamental data analysis techniques on historical Amazon (AMZN) stock data, along with an initial exploration into basic backtesting concepts. This project serves as a foundation for more complex quantitative analysis and algorithmic trading strategy development.
 
-## Table of Contents
-
--   [Project Overview](#project-overview)
--   [Key Features](#key-features)
--   [Data Source](#data-source)
--   [Analysis Performed](#analysis-performed)
--   [Backtesting Concept](#backtesting-concept)
--   [How to Run the Notebook](#how-to-run-the-notebook)
--   [Requirements](#requirements)
--   [Future Enhancements / Next Steps](#future-enhancements--next-steps)
--   [License](#license)
-
 ## Project Overview
 
 The primary goal of this project is to:
@@ -49,7 +37,7 @@ The `amzn.ipynb` notebook performs the following key analytical steps:
 
 ## Backtesting Concept
 
-While the full strategy implementation isn't detailed, the notebook touches upon the core idea of backtesting: applying a trading strategy to historical data to evaluate its hypothetical performance. The presence of `portfolio['total']` and `signals.positions` in the plotting section indicates an underlying simulation of trades based on certain criteria, leading to a visualization of how a portfolio might have performed over the historical period. This forms the basis for evaluating strategies before real-world deployment.
+the notebook touches upon the core idea of backtesting: applying a trading strategy to historical data to evaluate its hypothetical performance. The presence of `portfolio['total']` and `signals.positions` in the plotting section indicates an underlying simulation of trades based on certain criteria, leading to a visualization of how a portfolio might have performed over the historical period. This forms the basis for evaluating strategies before real-world deployment.
 
 ## How to Run the Notebook
 
